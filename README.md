@@ -48,3 +48,16 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+3- Pour creer une nouvelle branche 
+
+```
+git branch nom-de-la-branche
+```
+
+4- Pour bascule vers une branche 
+
+```
+git checkout nom-de-la-branche
+
+```
